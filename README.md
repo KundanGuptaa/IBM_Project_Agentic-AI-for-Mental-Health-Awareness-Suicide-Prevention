@@ -43,7 +43,7 @@
 15. [Demo Mode](#-demo-mode)
 16. [Troubleshooting](#-troubleshooting)
 17. [Crisis Resources](#-crisis-resources)
-18. [Disclaimer](#-disclaimer)
+18. [Disclaimer](#-disclaimer).
 
 ---
 
